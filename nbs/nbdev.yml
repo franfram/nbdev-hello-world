@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-hello-world"
+  site-url: "https://franfram.github.io/nbdev-hello-world"
+  description: "hello"
+  repo-branch: main
+  repo-url: "https://github.com/franfram/nbdev-hello-world"
